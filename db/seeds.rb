@@ -1,2 +1,2 @@
-User.create!(username: "alice", password: "wonderland")
-User.create!(username: "bob",   password: "asdfasdf")
+User.create!(username: "alice", password: "foisjaoiajfoiaj")
+User.create!(username: "bob",   password: "apijapoijrwaija")
